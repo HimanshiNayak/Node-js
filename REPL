@@ -1,1 +1,11 @@
+//REPL
+//1.js expression : evaluta the expressions directly on terminal
 
+//2.use variables: declare var and fecth their values directly
+
+//Multiline codes / loops : can work with loops direclty on terminal
+
+// 4.use(_) to fecth the last result
+
+// 5.can use the editor mode
+//can start working with them only by writing node
